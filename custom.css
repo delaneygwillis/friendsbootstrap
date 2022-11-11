@@ -1,0 +1,25 @@
+#heading, .card-header, .card-title { text-transform: uppercase; }
+
+body { background-color: #FDFDA2; font-family: 'Roboto Mono', monospace;}
+
+.container {padding: 20px;}
+
+.card-header { background-color:lightyellow; }
+
+.extra-title { background-color: lightyellow; text-transform: uppercase;}
+
+nav { border-style: ridge; box-shadow: 2px 2px 5px black;}
+
+.list-group, .card-header, .card-body {border-style: ridge; box-shadow: 2px 2px 5px black;}
+
+#heading {color: white;text-align: center; text-shadow: 1px 1px 5px black;}
+
+#profile { border-style: ridge; box-shadow: 2px 2px 5px black;}
+
+img.profile { width:  100%; height: 335px; object-fit: cover;}
+
+img {box-shadow: 2px 2px 5px black;}
+
+.navbarNavDropdown {padding:20rem; }
+
+

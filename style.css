@@ -1,0 +1,4 @@
+#heading, .card-header, .card-title { text-transform: uppercase; }
+body { background-color: lightyellow; font-family: 'Roboto Mono', monospace;}
+.container {padding: 20px;}
+.navbar { background-color: orange; }
